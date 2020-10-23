@@ -1,0 +1,6 @@
+[submodule "erc20-node-template"]
+	path = erc20-node-template
+	url = https://github.com/tonysun83/erc20-node-template
+[submodule "erc20-front-end-template"]
+	path = erc20-front-end-template
+	url = https://github.com/tonysun83/erc20-front-end-template
