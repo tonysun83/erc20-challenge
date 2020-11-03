@@ -26,4 +26,11 @@ https://substrate.dev/substrate-contracts-workshop/#/0/deploying-your-contract
 
 Send Tokens From Alice Account in the ERC20 Token Transfer section
 
+![alt text](https://github.com/tonysun83/erc20-challenge/blob/main/upload-start.png?raw=true)
+
+![alt text](https://github.com/tonysun83/erc20-challenge/blob/main/upload-complete.png?raw=true)
+
+![alt text](https://github.com/tonysun83/erc20-challenge/blob/main/deploy-contract.png?raw=true)
+
+![alt text](https://github.com/tonysun83/erc20-challenge/blob/main/transferproof.png?raw=true)
 
